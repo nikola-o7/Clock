@@ -1,4 +1,4 @@
 # Clock
-a (GMT+2) clock
+a (GMT+1) clock
 
-A simple imagining of a clock.
+A very basic design of a clock.
